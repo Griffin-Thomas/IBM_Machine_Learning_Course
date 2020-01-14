@@ -4,4 +4,4 @@
 
 This repo contains the final assignment I completed for the following course: 
 
-www.coursera.org/learn/machine-learning-with-python/
+https://www.coursera.org/account/accomplishments/records/8G9T292VVK6U
